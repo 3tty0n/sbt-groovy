@@ -1,0 +1,2 @@
+> groovyc
+$ exists target/scala-2.12/groovy-classes/test/SomeClass.class
